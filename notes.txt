@@ -1,0 +1,5 @@
+Automated FSL Group Analyses: python - pandas, python - numpy, R - Shiny, R - dplyr
+FreeSurfer Compare: bash, python, ImageMagick, MATLAB
+Preprocessing makefiles: GNU Make, bash
+NFL Penalties: python - pandas, python - matplotlib, python - beautifulsoup
+Fitbit visualizations: python - matplotlib, python - seaborn
